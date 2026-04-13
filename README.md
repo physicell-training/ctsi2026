@@ -1,5 +1,6 @@
-# OpenVT Workshop at SMB 2025 - PhysiCell Training
-These are slides and materials used during the July 13, 2025 mini-tutorial (part of the [OpenVT Workshop](https://www.openvt.org/pages/events/workshops/2025openvt-smb-workshop.html) at the [Society for Mathematical Biology (SMB) 2025 Annual Meeting](https://2025.smb.org/) in Edmonton, Canada. 
+# 2026 CTSI / MPRING Workshop - PhysiCell Training
+These are slides and materials used during the April 13, 2026 PhysiCell mini-workshop at the 
+ [2026 CTSI / MPRINT Meeting](https://www.mprint.org/conference-2026) in Indianapolis, Indiana. 
 
 ## Mini PhysiCell Tutorial 
 This is a miniature, 2-hour tutorial series on building your first tumor-immune model with PhysiCell Studio, without any need to install a C++ compiler or write any code. 
